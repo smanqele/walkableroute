@@ -15,3 +15,5 @@ There is a "resources/logs" folder in the project root which contains the applic
 The file za.co.model.route.RouteBuilder is the execution point for the project.
 
 The result is created in a new "result" file for reference purposes.
+
+Project done in Eclipse Kepler using jdk1.7.0_60 (64 bit) on Mint OS
