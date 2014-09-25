@@ -11,3 +11,7 @@ There are four(4) source package structures: 1. za.co.app.logger (1 source file)
 There is a "resource" folder in the project root which contains the input map file plus a test file.
 
 There is a "resources/logs" folder in the project root which contains the application log files. Each new application spawns a new log file.
+
+The file za.co.model.route.RouteBuilder is the execution point for the project.
+
+The result is created in a new "result" file for reference purposes.
